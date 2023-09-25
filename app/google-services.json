@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836643579030",
+    "project_id": "upload-ds3t-anderson",
+    "storage_bucket": "upload-ds3t-anderson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836643579030:android:f3de0c35fdfc48e5ee4eb7",
+        "android_client_info": {
+          "package_name": "br.senai.sp.jandira.upload_ds3t"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-iu1Oc1gXcGi9RYJu51U3OjLDKj4sos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
